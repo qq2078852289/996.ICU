@@ -1,7 +1,7 @@
 # 相关媒体报道，感谢媒体朋友们
 
 ## 中文媒体
-
+- 懂懂笔记: [争论未休，996已“被跟风”] https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22:%22news_10861846260292456039%22%7D&pageType=1&isWiseFrom=1&qq-pf-to=pcqq.group
 - 中新网：[逃离996：我宁可不婚不育不买房，也不要拼命](http://www.chinanews.com/gn/2019/04-16/8809887.shtml)
 
 - 新华网：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
